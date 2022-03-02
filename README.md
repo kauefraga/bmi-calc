@@ -1,4 +1,4 @@
-<h1 align=center">{Title}</h1>
+<h1 align=center">IMC Calculator</h1>
 
 <p align="center">
   <img
@@ -40,4 +40,4 @@ This project is licensed under the MIT License - See the [LICENSE](https://githu
 <div align="center" display="flex">
   <img alt="Built with love" src="https://forthebadge.com/images/badges/built-with-love.svg">
   <img alt="Powered by coffee" src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
-</div>"
+</div>
