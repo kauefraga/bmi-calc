@@ -24,9 +24,14 @@
 <!-- Body mass index (bmi) :: Índice de massa corporal (imc) -->
 <h4 align="center">A calculator of BMI to try out some langs</h4>
 
-## ⬇️ How to download
+## ⬇️ How to download and run
 ```bash
 git clone https://github.com/kauefraga/bmi-calc.git
+cd bmi-calc
+
+# To run the python version (default: en)
+python py/main.py
+python py/main.py --lang pt_br
 ```
 
 ## 💻 Technologies
