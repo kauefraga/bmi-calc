@@ -32,11 +32,15 @@ cd bmi-calc
 # To run the python version (default: en)
 python py/main.py
 python py/main.py --lang pt_br
+
+# C++ version (just english)
+./cpp/run.sh
 ```
 
 ## 💻 Technologies
 
 - [Python](https://python.org)
+- [C++](https://en.wikipedia.org/wiki/C++)
 
 ## 📝 License
 
