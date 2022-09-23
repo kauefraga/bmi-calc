@@ -25,6 +25,7 @@
 <h4 align="center">A calculator of BMI to try out some langs</h4>
 
 ## ⬇️ How to download and run
+
 ```bash
 git clone https://github.com/kauefraga/bmi-calc.git
 cd bmi-calc
@@ -34,7 +35,8 @@ python py/main.py
 python py/main.py --lang pt_br
 
 # C++ version (just english)
-./cpp/run.sh
+g++ cpp/main.cpp -o cpp/main -std=c++2a
+cpp/main
 ```
 
 ## 💻 Technologies
@@ -47,6 +49,7 @@ python py/main.py --lang pt_br
 This project is licensed under the MIT License - See the [LICENSE](https://github.com/kauefraga/bmi-calc/blob/main/LICENSE) for more information.
 
 ---
+
 <div align="center" display="flex">
   <img alt="Built with love" src="https://forthebadge.com/images/badges/built-with-love.svg">
   <img alt="Powered by coffee" src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
