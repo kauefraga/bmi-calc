@@ -12,5 +12,5 @@
 # compile `main.cpp` and run the g++ output
 main="cpp/main"
 
-g++ $main.cpp -o $main -std=c++20
+g++ $main.cpp -o $main -std=c++2a
 $main
